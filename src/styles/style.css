@@ -38,10 +38,11 @@ body {
 }
 
 .card .profile .image {
-  width: 100px;
-  height: 95px;
+  width: 90px;
+  height: 88px;
   margin-top: 20px;
   border-radius: 50%;
+  border: 3px solid var(--card-color);
 }
 
 .card .media-numbers {
@@ -59,8 +60,9 @@ body {
   color: var(--text-color);
 }
 
-.numeros,
-.name {
+.card .profile .age,
+.media-numbers .info .numeros,
+.card .profile .name {
   font-weight: 700;
 }
 
