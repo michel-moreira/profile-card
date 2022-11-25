@@ -4,8 +4,8 @@ Exercício para a criação de um cartão de perfil usando ***HTML*** e ***CSS**
 
 ## Versão Desktop
 
-![Screenshot da versão Desktop](src="./design/Screnshot_descktop.png")
+![Screenshot da versão Desktop](./design/Screenshot_descktop.png)
 
 ## Versão responsiva para Mobiles
 
-![Screenshot da versão mobile](src="./design/Screenshot_mobile.png")
+![Screenshot da versão mobile](./design/Screenshot_mobile.png)
