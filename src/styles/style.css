@@ -53,17 +53,17 @@ body {
   text-align: center;
 }
 
-.card .profile .city, .card .profile .age,
+.card .profile .city,
+.card .profile .age,
 .media-numbers .info .media-atributos {
   color: var(--text-color);
 }
 
-.numeros, .name {
+.numeros,
+.name {
   font-weight: 700;
 }
 
 hr {
   width: 100%;
 }
-
-
