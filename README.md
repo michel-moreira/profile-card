@@ -4,7 +4,7 @@ Exercício para a criaçãode um cartão de perfil usando *HTML* e *CSS*, provan
 
 ## Versão Descktop
 
-[<img src="./design/Screenshot_descktop.png" alt="Screenshot da versão Descktop" >]
+[<img src="./design/Screnshot_descktop.png" alt="Screenshot da versão Descktop" >]
 
 ## Versão responsiva para Mobiles
 
