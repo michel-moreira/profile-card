@@ -1,11 +1,11 @@
 # Profile Card
 
-Exercício para a criaçãode um cartão de perfil usando *HTML* e *CSS*, provando as habilidades com tags semânticas e o alinhamento de items e elementos com o flexbox.
+Exercício para a criação de um cartão de perfil usando ***HTML*** e ***CSS***, provando as habilidades com tags semânticas e o alinhamento de items e elementos com o flexbox.
 
-## Versão Descktop
+## Versão Desktop
 
-[<img src="./design/Screnshot_descktop.png" alt="Screenshot da versão Descktop" >]
+![Screenshot da versão Desktop](src="./design/Screnshot_descktop.png")
 
 ## Versão responsiva para Mobiles
 
-[<img src="./design/Screnshot_mobile.png" alt="Screenshot da versão mobile" >]
+![Screenshot da versão mobile](src="./design/Screenshot_mobile.png")
